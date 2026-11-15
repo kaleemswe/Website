@@ -1,0 +1,6 @@
+{
+  "name": "Kalleem Store",
+  "description": "Responsive frontend e-commerce storefront and client portfolio showcase crafted by Kalleem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
